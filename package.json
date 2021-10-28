@@ -2,7 +2,7 @@
   "name": "react-training",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://broskysph.github.io/react-training/",
+  "homepage": "https://broskysph.github.io/react-training/build/",
   "dependencies": {
     "@craco/craco": "^6.4.0",
     "@tailwindcss/postcss7-compat": "^2.2.17",
